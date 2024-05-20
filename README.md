@@ -28,4 +28,4 @@ Interactive Tooltips: Includes tooltips for enhanced user guidance. ✅<br/>
 
 
 # License  :page_with_curl:<br/>
-ComposeAllCompanent is available under the MIT  license. See the [LICENSE]() file for more info.
+ComposeAllCompanent is available under the MIT  license. See the [LICENSE](https://github.com/ahmetufan/ComposeAllCompanent/blob/master/LICENSE) file for more info.
