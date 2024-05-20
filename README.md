@@ -6,7 +6,7 @@ Custom Animations: Uses Kotlin Compose's draw API for dynamic animations. ✅<br
 Animated Progress Bars: Features smooth progress bars with animation APIs. ✅<br/>
 Interactive Tooltips: Includes tooltips for enhanced user guidance. ✅<br/>
 
-# Showcase 🚀 
+# Showcase 📷 
 
 #### Draw Animations 
 <p align="center">
